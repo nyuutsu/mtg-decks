@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Sidisi, Undead Vizier"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Spawning Pit"/>
+        <card number="1" name="Satyr Wayfinder"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Merciless Executioner"/>
+        <card number="1" name="Plaguecrafter"/>
+        <card number="1" name="Underrealm Lich"/>
+        <card number="1" name="Caustic Caterpillar"/>
+        <card number="1" name="Eldrazi Monument"/>
+        <card number="1" name="Lotleth Troll"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Savra, Queen of the Golgari"/>
+        <card number="1" name="Boneyard Wurm"/>
+        <card number="1" name="Ravenous Chupacabra"/>
+        <card number="1" name="Jarad, Golgari Lich Lord"/>
+        <card number="1" name="Haze Frog"/>
+        <card number="1" name="Beanstalk Giant // Fertile Footsteps"/>
+        <card number="1" name="Razaketh, the Foulblooded"/>
+        <card number="1" name="Stitch Together"/>
+        <card number="1" name="Vigor Mortis"/>
+        <card number="1" name="Shriekmaw"/>
+        <card number="10" name="Forest"/>
+        <card number="1" name="Golgari Guildgate"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Woodfall Primus"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Stonehoof Chieftain"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Acidic Slime"/>
+        <card number="1" name="Reanimate"/>
+        <card number="1" name="Mulch"/>
+        <card number="1" name="Buried Alive"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Elves of Deep Shadow"/>
+        <card number="1" name="Kokusho, the Evening Star"/>
+        <card number="1" name="Izoni, Thousand-Eyed"/>
+        <card number="1" name="Butcher of Malakir"/>
+        <card number="1" name="Pelakka Wurm"/>
+        <card number="1" name="Rune-Scarred Demon"/>
+        <card number="1" name="Terastodon"/>
+        <card number="1" name="Impervious Greatwurm"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Altar of Dementia"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Animate Dead"/>
+        <card number="1" name="Golgari Germination"/>
+        <card number="1" name="Moldervine Reclamation"/>
+        <card number="1" name="Deadbridge Chant"/>
+        <card number="1" name="Grisly Salvage"/>
+        <card number="1" name="Tainted Wood"/>
+        <card number="1" name="Twilight Mire"/>
+        <card number="1" name="Primal Growth"/>
+        <card number="1" name="Jarad's Orders"/>
+        <card number="1" name="Casualties of War"/>
+        <card number="1" name="Necromantic Selection"/>
+        <card number="1" name="Grim Backwoods"/>
+        <card number="1" name="High Market"/>
+        <card number="1" name="Jungle Hollow"/>
+        <card number="1" name="Nurturing Peatland"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="10" name="Swamp"/>
+        <card number="1" name="Westvale Abbey"/>
+        <card number="1" name="Carrion Feeder"/>
+        <card number="1" name="Golgari Rot Farm"/>
+        <card number="1" name="Nyx Weaver"/>
+        <card number="1" name="Spore Frog"/>
+        <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Foul Orchard"/>
+        <card number="1" name="Urborg"/>
+        <card number="1" name="Dread Return"/>
+        <card number="1" name="Diabolic Intent"/>
+        <card number="1" name="Dictate of Erebos"/>
+        <card number="1" name="Stitcher's Supplier"/>
+        <card number="1" name="Beast Within"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Meren of Clan Nel Toth"/>
+    </zone>
+</cockatrice_deck>
