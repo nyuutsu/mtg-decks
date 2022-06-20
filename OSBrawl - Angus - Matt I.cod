@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Air Elemental"/>
+        <card number="1" name="Balance"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Braingeyser"/>
+        <card number="1" name="Chaos Orb"/>
+        <card number="1" name="City of Brass"/>
+        <card number="1" name="Clone"/>
+        <card number="1" name="Control Magic"/>
+        <card number="1" name="Copy Artifact"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="5" name="Forest"/>
+        <card number="1" name="Icy Manipulator"/>
+        <card number="5" name="Island"/>
+        <card number="1" name="Jayemdae Tome"/>
+        <card number="1" name="Land Tax"/>
+        <card number="1" name="Mahamoti Djinn"/>
+        <card number="1" name="Mana Drain"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Mishra's Factory"/>
+        <card number="1" name="Moat"/>
+        <card number="1" name="Nevinyrral's Disk"/>
+        <card number="5" name="Plains"/>
+        <card number="1" name="Power Sink"/>
+        <card number="1" name="Rasputin Dreamweaver"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Ring of Ma'rûf"/>
+        <card number="1" name="Rubinia Soulsinger"/>
+        <card number="1" name="Savannah"/>
+        <card number="1" name="Serra Angel"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spirit Link"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Tawnos's Coffin"/>
+        <card number="1" name="Timetwister"/>
+        <card number="1" name="Tolaria"/>
+        <card number="1" name="Transmute Artifact"/>
+        <card number="1" name="Triskelion"/>
+        <card number="1" name="Tropical Island"/>
+        <card number="1" name="Tundra"/>
+        <card number="1" name="Vesuvan Doppelganger"/>
+        <card number="1" name="Wild Growth"/>
+        <card number="1" name="Willow Satyr"/>
+        <card number="1" name="Wrath of God"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Angus Mackenzie"/>
+    </zone>
+</cockatrice_deck>
