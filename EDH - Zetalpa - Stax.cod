@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Sphere of Resistance"/>
+        <card number="1" name="Ancient Tomb"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Archon of Emeria"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Avacyn, Angel of Hope"/>
+        <card number="1" name="Cavern of Souls"/>
+        <card number="1" name="Chrome Mox"/>
+        <card number="1" name="Colossus Hammer"/>
+        <card number="1" name="Crystal Vein"/>
+        <card number="1" name="Drannith Magistrate"/>
+        <card number="1" name="Elesh Norn, Grand Cenobite"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Esper Sentinel"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Flawless Maneuver"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Gift of Estates"/>
+        <card number="1" name="Giver of Runes"/>
+        <card number="1" name="Grand Abolisher"/>
+        <card number="1" name="Grim Monolith"/>
+        <card number="1" name="Hall of the Bandit Lord"/>
+        <card number="1" name="Homeward Path"/>
+        <card number="1" name="Jeweled Lotus"/>
+        <card number="1" name="Kaldra Compleat"/>
+        <card number="1" name="Land Tax"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Lotus Petal"/>
+        <card number="1" name="Mana Crypt"/>
+        <card number="1" name="Mana Vault"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Mask of Memory"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Mox Diamond"/>
+        <card number="1" name="Mox Opal"/>
+        <card number="1" name="Open the Armory"/>
+        <card number="1" name="Pearl Medallion"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="21" name="Snow-Covered Plains"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solitude"/>
+        <card number="1" name="Spirited Companion"/>
+        <card number="1" name="Trinisphere"/>
+        <card number="1" name="Thalia, Guardian of Thraben"/>
+        <card number="1" name="Linvala, Keeper of Silence"/>
+        <card number="1" name="Eidolon of Rhetoric"/>
+        <card number="1" name="Aven Mindcensor"/>
+        <card number="1" name="Rest in Peace"/>
+        <card number="1" name="Gemstone Caverns"/>
+        <card number="1" name="Basilisk Collar"/>
+        <card number="1" name="Teferi's Protection"/>
+        <card number="1" name="Thalia, Heretic Cathar"/>
+        <card number="1" name="Winds of Abandon"/>
+        <card number="1" name="Wandering Archaic"/>
+        <card number="1" name="City of Traitors"/>
+        <card number="1" name="Sanctifier en-Vec"/>
+        <card number="1" name="Tangle Wire"/>
+        <card number="1" name="Thorn of Amethyst"/>
+        <card number="1" name="Steelshaper's Gift"/>
+        <card number="1" name="Stoneforge Mystic"/>
+        <card number="1" name="Sword of Fire and Ice"/>
+        <card number="1" name="Sword of Hearth and Home"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Tithe"/>
+        <card number="1" name="Umezawa's Jitte"/>
+        <card number="1" name="Urza's Saga"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Oswald Fiddlebender"/>
+        <card number="1" name="Sevinne's Reclamation"/>
+        <card number="1" name="Rule of Law"/>
+        <card number="1" name="Deafening Silence"/>
+        <card number="1" name="Silence"/>
+        <card number="1" name="Heliod, Sun-Crowned"/>
+        <card number="1" name="Gideon of the Trials"/>
+        <card number="1" name="Karn, the Great Creator"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Zetalpa, Primal Dawn"/>
+    </zone>
+</cockatrice_deck>
