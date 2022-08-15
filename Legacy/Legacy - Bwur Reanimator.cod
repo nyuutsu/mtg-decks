@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Archon of Cruelty"/>
+        <card number="3" name="Grief"/>
+        <card number="4" name="Griselbrand"/>
+        <card number="1" name="Serra's Emissary"/>
+        <card number="4" name="Exhume"/>
+        <card number="4" name="Faithless Looting"/>
+        <card number="4" name="Reanimate"/>
+        <card number="4" name="Thoughtseize"/>
+        <card number="4" name="Unmask"/>
+        <card number="4" name="Dark Ritual"/>
+        <card number="4" name="Entomb"/>
+        <card number="4" name="Lotus Petal"/>
+        <card number="4" name="Animate Dead"/>
+        <card number="2" name="Badlands"/>
+        <card number="2" name="Bloodstained Mire"/>
+        <card number="2" name="Marsh Flats"/>
+        <card number="2" name="Polluted Delta"/>
+        <card number="1" name="Scrubland"/>
+        <card number="1" name="Snow-Covered Swamp"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Underground Sea"/>
+        <card number="2" name="Verdant Catacombs"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Chancellor of the Annex"/>
+        <card number="1" name="Coffin Purge"/>
+        <card number="2" name="Echoing Truth"/>
+        <card number="1" name="Faerie Macabre"/>
+        <card number="2" name="Serenity"/>
+        <card number="3" name="Show and Tell"/>
+        <card number="2" name="Silence"/>
+        <card number="2" name="Wear // Tear"/>
+    </zone>
+</cockatrice_deck>

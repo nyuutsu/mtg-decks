@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Diregraf Ghoul"/>
+        <card number="1" name="Will-o'-the-Wisp"/>
+        <card number="4" name="Gifted Aetherborn"/>
+        <card number="4" name="Ravenous Rats"/>
+        <card number="4" name="Vampire Nighthawk"/>
+        <card number="2" name="Gravedigger"/>
+        <card number="2" name="Ravenous Chupacabra"/>
+        <card number="4" name="Inquisition of Kozilek"/>
+        <card number="2" name="Devour Flesh"/>
+        <card number="4" name="Doom Blade"/>
+        <card number="4" name="Sign in Blood"/>
+        <card number="1" name="Beseech the Queen"/>
+        <card number="2" name="Dead Weight"/>
+        <card number="1" name="Barren Moor"/>
+        <card number="21" name="Swamp"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Golgari Grave-Troll"/>
+        <card number="3" name="Golgari Thug"/>
+        <card number="4" name="Grief"/>
+        <card number="1" name="Hogaak, Arisen Necropolis"/>
+        <card number="3" name="Ichorid"/>
+        <card number="4" name="Narcomoeba"/>
+        <card number="1" name="Ox of Agonas"/>
+        <card number="4" name="Stinkweed Imp"/>
+        <card number="3" name="Breakthrough"/>
+        <card number="4" name="Cabal Therapy"/>
+        <card number="4" name="Careful Study"/>
+        <card number="4" name="Faithless Looting"/>
+        <card number="4" name="Otherworldly Gaze"/>
+        <card number="4" name="Bridge from Below"/>
+        <card number="4" name="Cephalid Coliseum"/>
+        <card number="2" name="City of Brass"/>
+        <card number="1" name="Fiery Islet"/>
+        <card number="2" name="Gemstone Mine"/>
+        <card number="4" name="Mana Confluence"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Ashen Rider"/>
+        <card number="1" name="Chain of Vapor"/>
+        <card number="1" name="Dread Return"/>
+        <card number="3" name="Force of Will"/>
+        <card number="2" name="Leyline of Sanctity"/>
+        <card number="3" name="Leyline of the Void"/>
+        <card number="4" name="Wispmare"/>
+    </zone>
+</cockatrice_deck>

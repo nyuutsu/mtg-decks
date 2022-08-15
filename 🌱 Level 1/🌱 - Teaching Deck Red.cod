@@ -10,9 +10,10 @@
         <card number="4" name="Flame Javelin"/>
         <card number="4" name="Ghitu Lavarunner"/>
         <card number="4" name="Lightning Bolt"/>
-        <card number="20" name="Mountain"/>
+        <card number="19" name="Mountain"/>
         <card number="4" name="Pillar of Flame"/>
         <card number="4" name="Seal of Fire"/>
         <card number="4" name="Shock"/>
+        <card number="1" name="Forgotten Cave"/>
     </zone>
 </cockatrice_deck>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Aether Vial"/>
+        <card number="1" name="Archivist of Oghma"/>
+        <card number="1" name="Batterskull"/>
+        <card number="4" name="Flickerwisp"/>
+        <card number="1" name="Kaldra Compleat"/>
+        <card number="1" name="Lion Sash"/>
+        <card number="4" name="Mother of Runes"/>
+        <card number="2" name="Recruiter of the Guard"/>
+        <card number="2" name="Skyclave Apparition"/>
+        <card number="2" name="Solitude"/>
+        <card number="2" name="Spirit of the Labyrinth"/>
+        <card number="4" name="Stoneforge Mystic"/>
+        <card number="4" name="Swords to Plowshares"/>
+        <card number="4" name="Thalia, Guardian of Thraben"/>
+        <card number="1" name="Umezawa's Jitte"/>
+        <card number="1" name="Eiganjo, Seat of the Empire"/>
+        <card number="2" name="Flagstones of Trokair"/>
+        <card number="3" name="Karakas"/>
+        <card number="9" name="Plains"/>
+        <card number="4" name="Rishadan Port"/>
+        <card number="4" name="Wasteland"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Spirit of the Labyrinth"/>
+        <card number="1" name="Cataclysm"/>
+        <card number="1" name="Cathar Commando"/>
+        <card number="3" name="Chalice of the Void"/>
+        <card number="1" name="Council's Judgment"/>
+        <card number="3" name="Deafening Silence"/>
+        <card number="1" name="Gideon, Ally of Zendikar"/>
+        <card number="2" name="Kataki, War's Wage"/>
+        <card number="2" name="Rest in Peace"/>
+    </zone>
+</cockatrice_deck>

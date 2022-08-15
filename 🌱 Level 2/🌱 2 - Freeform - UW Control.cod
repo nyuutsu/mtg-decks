@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Arrest"/>
+        <card number="4" name="Azorius Arrester"/>
+        <card number="3" name="Azorius Charm"/>
+        <card number="2" name="Azorius Keyrune"/>
+        <card number="1" name="Condemn"/>
+        <card number="1" name="Daxos of Meletis"/>
+        <card number="1" name="Deep Analysis"/>
+        <card number="2" name="Dramatic Rescue"/>
+        <card number="4" name="Inaction Injunction"/>
+        <card number="1" name="Into the Roil"/>
+        <card number="7" name="Island"/>
+        <card number="4" name="Judge's Familiar"/>
+        <card number="1" name="Lonely Sandbar"/>
+        <card number="4" name="Lyev Skyknight"/>
+        <card number="3" name="Mana Leak"/>
+        <card number="1" name="Martial Law"/>
+        <card number="1" name="New Prahv Guildmage"/>
+        <card number="3" name="Ninja of the Deep Hours"/>
+        <card number="1" name="Oblivion Ring"/>
+        <card number="7" name="Plains"/>
+        <card number="1" name="Secluded Steppe"/>
+        <card number="2" name="Seller of Songbirds"/>
+        <card number="1" name="Syncopate"/>
+        <card number="4" name="Tranquil Cove"/>
+    </zone>
+</cockatrice_deck>
