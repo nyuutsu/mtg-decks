@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Forest"/>
+        <card number="4" name="Inkmoth Nexus"/>
+        <card number="3" name="Misty Rainforest"/>
+        <card number="4" name="Windswept Heath"/>
+        <card number="2" name="Verdant Catacombs"/>
+        <card number="3" name="Tropical Island"/>
+        <card number="1" name="Savannah"/>
+        <card number="1" name="Pendelhaven"/>
+        <card number="4" name="Blighted Agent"/>
+        <card number="4" name="Glistener Elf"/>
+        <card number="4" name="Noble Hierarch"/>
+        <card number="2" name="Scale Up"/>
+        <card number="3" name="Berserk"/>
+        <card number="4" name="Brainstorm"/>
+        <card number="4" name="Daze"/>
+        <card number="4" name="Force of Will"/>
+        <card number="4" name="Invigorate"/>
+        <card number="2" name="Ponder"/>
+        <card number="2" name="Spell Pierce"/>
+        <card number="3" name="Vines of Vastwood"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Teferi, Time Raveler"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Flusterstorm"/>
+        <card number="2" name="Force of Vigor"/>
+        <card number="1" name="Grafdigger's Cage"/>
+        <card number="2" name="Surgical Extraction"/>
+        <card number="3" name="Swords to Plowshares"/>
+        <card number="1" name="Blue Elemental Blast"/>
+        <card number="2" name="Veil of Summer"/>
+        <card number="1" name="Spellskite"/>
+        <card number="1" name="Endurance"/>
+    </zone>
+</cockatrice_deck>

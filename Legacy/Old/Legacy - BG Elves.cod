@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Grist, the Hunger Tide"/>
+        <card number="3" name="Once Upon a Time"/>
+        <card number="3" name="Natural Order"/>
+        <card number="4" name="Green Sun's Zenith"/>
+        <card number="1" name="Collector Ouphe"/>
+        <card number="1" name="Endurance"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Opposition Agent"/>
+        <card number="2" name="Llanowar Elves"/>
+        <card number="2" name="Fyndhorn Elves"/>
+        <card number="2" name="Elvish Spirit Guide"/>
+        <card number="3" name="Elvish Visionary"/>
+        <card number="3" name="Wirewood Symbiote"/>
+        <card number="4" name="Elvish Reclaimer"/>
+        <card number="4" name="Allosaurus Shepherd"/>
+        <card number="4" name="Fiend Artisan"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="2" name="Misty Rainforest"/>
+        <card number="2" name="Wooded Foothills"/>
+        <card number="2" name="Forest"/>
+        <card number="2" name="Windswept Heath"/>
+        <card number="2" name="Dryad Arbor"/>
+        <card number="2" name="Bayou"/>
+        <card number="2" name="Verdant Catacombs"/>
+        <card number="2" name="Boseiju, Who Endures"/>
+        <card number="4" name="Gaea's Cradle"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Run Afoul"/>
+        <card number="1" name="Progenitus"/>
+        <card number="4" name="Thoughtseize"/>
+        <card number="2" name="Shriekmaw"/>
+        <card number="1" name="Karakas"/>
+        <card number="1" name="Crop Rotation"/>
+        <card number="2" name="Force of Vigor"/>
+        <card number="3" name="Endurance"/>
+    </zone>
+</cockatrice_deck>

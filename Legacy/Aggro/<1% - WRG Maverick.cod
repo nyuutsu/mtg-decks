@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Prismatic Ending"/>
+        <card number="2" name="Fable of the Mirror-Breaker"/>
+        <card number="2" name="Sylvan Library"/>
+        <card number="3" name="Minsc // Boo, Timeless Heroes"/>
+        <card number="3" name="Punishing Fire"/>
+        <card number="4" name="Swords to Plowshares"/>
+        <card number="4" name="Green Sun's Zenith"/>
+        <card number="1" name="Knight of Autumn"/>
+        <card number="1" name="Noble Hierarch"/>
+        <card number="1" name="Ignoble Hierarch"/>
+        <card number="1" name="Ramunap Excavator"/>
+        <card number="1" name="Outland Liberator"/>
+        <card number="1" name="Collector Ouphe"/>
+        <card number="2" name="Birds of Paradise"/>
+        <card number="4" name="Endurance"/>
+        <card number="4" name="Knight of the Reliquary"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Dryad Arbor"/>
+        <card number="1" name="Plateau"/>
+        <card number="1" name="Karakas"/>
+        <card number="1" name="Plains"/>
+        <card number="2" name="Taiga"/>
+        <card number="2" name="Savannah"/>
+        <card number="3" name="Grove of the Burnwillows"/>
+        <card number="4" name="Wasteland"/>
+        <card number="4" name="Wooded Foothills"/>
+        <card number="4" name="Windswept Heath"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Force of Vigor"/>
+        <card number="2" name="Deafening Silence"/>
+        <card number="2" name="Pyroblast"/>
+        <card number="1" name="Gaddock Teeg"/>
+        <card number="3" name="Mindbreak Trap"/>
+        <card number="1" name="Carpet of Flowers"/>
+        <card number="2" name="Choke"/>
+        <card number="2" name="Fury"/>
+    </zone>
+</cockatrice_deck>

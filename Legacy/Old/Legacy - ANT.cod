@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ad Nauseam"/>
+        <card number="1" name="Bayou"/>
+        <card number="4" name="Brainstorm"/>
+        <card number="4" name="Cabal Ritual"/>
+        <card number="4" name="Dark Ritual"/>
+        <card number="2" name="Duress"/>
+        <card number="4" name="Infernal Tutor"/>
+        <card number="4" name="Lion's Eye Diamond"/>
+        <card number="4" name="Lotus Petal"/>
+        <card number="4" name="Misty Rainforest"/>
+        <card number="1" name="Past in Flames"/>
+        <card number="4" name="Polluted Delta"/>
+        <card number="4" name="Ponder"/>
+        <card number="4" name="Preordain"/>
+        <card number="1" name="Snow-Covered Island"/>
+        <card number="1" name="Snow-Covered Swamp"/>
+        <card number="1" name="Tendrils of Agony"/>
+        <card number="4" name="Thoughtseize"/>
+        <card number="1" name="Tropical Island"/>
+        <card number="2" name="Underground Sea"/>
+        <card number="2" name="Veil of Summer"/>
+        <card number="1" name="Volcanic Island"/>
+        <card number="2" name="Wishclaw Talisman"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Abrupt Decay"/>
+        <card number="1" name="Aeve, Progenitor Ooze"/>
+        <card number="3" name="Carpet of Flowers"/>
+        <card number="1" name="Chain of Vapor"/>
+        <card number="1" name="Echoing Truth"/>
+        <card number="2" name="Flusterstorm"/>
+        <card number="1" name="Hurkyl's Recall"/>
+        <card number="3" name="Surgical Extraction"/>
+        <card number="1" name="Tropical Island"/>
+    </zone>
+</cockatrice_deck>

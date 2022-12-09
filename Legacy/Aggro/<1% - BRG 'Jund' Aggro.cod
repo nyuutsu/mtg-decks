@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Bayou"/>
+        <card number="3" name="Badlands"/>
+        <card number="4" name="Verdant Catacombs"/>
+        <card number="3" name="Abrupt Decay"/>
+        <card number="1" name="Taiga"/>
+        <card number="3" name="Endurance"/>
+        <card number="2" name="Mirri's Guile"/>
+        <card number="4" name="Dark Confidant"/>
+        <card number="3" name="Hymn to Tourach"/>
+        <card number="3" name="Tarmogoyf"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="4" name="Lightning Bolt"/>
+        <card number="4" name="Thoughtseize"/>
+        <card number="3" name="Ignoble Hierarch"/>
+        <card number="3" name="Bloodstained Mire"/>
+        <card number="2" name="Wooded Foothills"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Forest"/>
+        <card number="3" name="Wasteland"/>
+        <card number="3" name="Minsc // Boo, Timeless Heroes"/>
+        <card number="3" name="Sudden Edict"/>
+        <card number="1" name="Boseiju, Who Endures"/>
+        <card number="2" name="Liliana of the Veil"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Endurance"/>
+        <card number="1" name="Collector Ouphe"/>
+        <card number="2" name="Force of Vigor"/>
+        <card number="2" name="Red Elemental Blast"/>
+        <card number="2" name="Pyroblast"/>
+        <card number="1" name="Seeds of Innocence"/>
+        <card number="1" name="Null Rod"/>
+        <card number="2" name="Plague Engineer"/>
+        <card number="3" name="Leyline of the Void"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Liliana of the Veil"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Thoughtseize"/>
+        <card number="1" name="Witherbloom Command"/>
+        <card number="1" name="Dress Down"/>
+        <card number="1" name="Force of Negation"/>
+        <card number="1" name="Sudden Edict"/>
+        <card number="1" name="Mystical Dispute"/>
+        <card number="1" name="Carpet of Flowers"/>
+        <card number="2" name="Grist, the Hunger Tide"/>
+        <card number="2" name="Fatal Push"/>
+        <card number="2" name="Snuff Out"/>
+        <card number="2" name="Narset, Parter of Veils"/>
+        <card number="2" name="Stifle"/>
+        <card number="4" name="Brainstorm"/>
+        <card number="4" name="Ponder"/>
+        <card number="4" name="Force of Will"/>
+        <card number="1" name="Leovold, Emissary of Trest"/>
+        <card number="1" name="Endurance"/>
+        <card number="2" name="Uro, Titan of Nature's Wrath"/>
+        <card number="2" name="Tarmogoyf"/>
+        <card number="3" name="Baleful Strix"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Boseiju, Who Endures"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Bayou"/>
+        <card number="1" name="Swamp"/>
+        <card number="2" name="Tropical Island"/>
+        <card number="2" name="Wasteland"/>
+        <card number="3" name="Underground Sea"/>
+        <card number="3" name="Misty Rainforest"/>
+        <card number="4" name="Polluted Delta"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Surgical Extraction"/>
+        <card number="1" name="Force of Vigor"/>
+        <card number="1" name="Collector Ouphe"/>
+        <card number="1" name="Seeds of Innocence"/>
+        <card number="1" name="Veil of Summer"/>
+        <card number="2" name="Plague Engineer"/>
+        <card number="2" name="Blue Elemental Blast"/>
+        <card number="2" name="Torpor Orb"/>
+        <card number="2" name="Mystical Dispute"/>
+        <card number="1" name="Carpet of Flowers"/>
+    </zone>
+</cockatrice_deck>

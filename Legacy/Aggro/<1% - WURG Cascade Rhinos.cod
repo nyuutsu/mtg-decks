@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Fire // Ice"/>
+        <card number="2" name="Minsc // Boo, Timeless Heroes"/>
+        <card number="2" name="Force of Negation"/>
+        <card number="3" name="Crashing Footfalls"/>
+        <card number="4" name="Force of Will"/>
+        <card number="4" name="Violent Outburst"/>
+        <card number="4" name="Leyline Binding"/>
+        <card number="2" name="Uro, Titan of Nature's Wrath"/>
+        <card number="4" name="Simian Spirit Guide"/>
+        <card number="4" name="Shardless Agent"/>
+        <card number="4" name="Elvish Spirit Guide"/>
+        <card number="4" name="Brazen Borrower // Petty Theft"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Plateau"/>
+        <card number="1" name="Volcanic Island"/>
+        <card number="1" name="Savannah"/>
+        <card number="1" name="Taiga"/>
+        <card number="2" name="Tropical Island"/>
+        <card number="2" name="Tundra"/>
+        <card number="4" name="Scalding Tarn"/>
+        <card number="4" name="Misty Rainforest"/>
+        <card number="4" name="Flooded Strand"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Mindbreak Trap"/>
+        <card number="4" name="Endurance"/>
+        <card number="2" name="Mystical Dispute"/>
+        <card number="1" name="Stony Silence"/>
+        <card number="1" name="Collector Ouphe"/>
+        <card number="1" name="Containment Priest"/>
+        <card number="2" name="Force of Vigor"/>
+        <card number="2" name="Brotherhood's End"/>
+    </zone>
+</cockatrice_deck>
